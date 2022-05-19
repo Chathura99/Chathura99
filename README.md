@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Chathura - @Chathura99 2nd year undergraduate
-- 👀 I’m interested in java, C++, Scala, PHP
-- 🌱 I’m currently learning ML, ...
+- 👋 Hi, I’m **Chathura** - @Chathura99 2nd year undergraduate at **University of Colombo School of Computing**
+- 👀 I’m interested in **java, C++, Scala, PHP** languages and **React, React-native, Sprongboot, AngularJs** technologies
+- 🌱 I’m currently learning **ML and mobile development**
 - 📫 How to reach me - chathura.manoharas@gmail.com
+-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-<!---
-Chathura99/Chathura99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
