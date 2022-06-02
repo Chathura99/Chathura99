@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **University of Colombo School of Computing(UG)**
 
-- 📝 All of my projects are available at [chathura.lk](chathura.lk)
+<!-- - 📝 All of my projects are available at [chathura.lk](chathura.lk) -->
 
 - 📫 How to reach me **chathura.manoharas@gmail.com**
 
