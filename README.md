@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura99&show_icons=true&locale=en&layout=compact" alt="chathura99" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura99&show_icons=true&locale=en&layout=compact" alt="chathura99" /></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
