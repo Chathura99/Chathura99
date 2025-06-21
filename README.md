@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathura</h1>
-<h3 align="center">Undergraduate at UCSC</h3>
+<h3 align="center">UCSC Bsc(Hons) in Software Engineering</h3>
 
 <p align="center">
   🌱 Currently learning at **University of Colombo School of Computing (UG)**<br>
