@@ -2,7 +2,7 @@
 <h3 align="center">UCSC Bsc(Hons) in Software Engineering</h3>
 
 <p align="center">
-  🌱 Currently learning at **University of Colombo School of Computing (UG)**<br>
+  🌱 **University of Colombo School of Computing**<br>
   📫 Reach me at **chathura.manoharas@gmail.com**<br>
   ⚡ Fun fact: **I think I am funny**
 </p>
